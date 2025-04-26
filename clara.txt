@@ -1,4 +1,0 @@
-rodrigo.txt
-
-
-Bug em 2 arquivos
