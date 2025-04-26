@@ -1,6 +1,6 @@
 Tudo começa com um texto
 
-começacomeçacomeçacomeçacomeçacomeçacomeça
+começacomeçacomeçacomeç a começacomeçacomeça
 
 
 E depois ele fica maior
@@ -15,7 +15,6 @@ dsad
 sadsa
 ds
 
-\zx\zx\zxc sdf
 sdfsdf sdf sdfds
 
 dsa
@@ -27,7 +26,7 @@ sad
 sdasdsadasd
 asdasdsadasd
 
-
+Rodrigo
 
 dasdsad asd
 a sdsada da
